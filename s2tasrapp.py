@@ -9,7 +9,7 @@ Original file is located at
 
 import streamlit as st
 import requests
-from textblob import TextBlob  # For sentiment analysis
+from TextBlob import TextBlob  # For sentiment analysis
 from wordcloud import WordCloud  # For keyword extraction
 import matplotlib.pyplot as plt
 
