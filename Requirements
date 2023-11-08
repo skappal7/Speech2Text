@@ -1,0 +1,5 @@
+streamlit==0.91.0
+requests==2.26.0
+textblob==0.15.3
+wordcloud==1.8.1
+matplotlib==3.4.3
